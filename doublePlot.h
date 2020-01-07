@@ -1,9 +1,5 @@
 //
 //  doublePlot.h
-//  ArrhythmiaPrediction
-//
-//  Created by Marek Sirendi on 12/05/2018.
-//
 //
 
 #ifndef __ArrhythmiaPrediction__doublePlot__

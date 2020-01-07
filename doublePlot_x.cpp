@@ -1,9 +1,5 @@
 //
 //  doublePlot_x.cpp
-//  ArrhythmiaPrediction
-//
-//  Created by Marek Sirendi on 12/05/2018.
-//  Copyright © 2018 Transformative. All rights reserved.
 //
 
 #include "doublePlot.h"

@@ -1,9 +1,5 @@
 //
 //doublePlot.cpp
-//ArrhythmiaPrediction
-//
-//Created by Marek Sirendi on 12/05/2018.
-//
 //
 
 #include "doublePlot.h"
